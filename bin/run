@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/super_hero_cli.rb'
+
+Cli.new.launch
