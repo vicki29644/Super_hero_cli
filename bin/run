@@ -2,4 +2,4 @@
 
 require_relative '../lib/super_hero_cli.rb'
 
-Cli.new.launch
+Cli.new.run
